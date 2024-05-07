@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08ecb6dc-61a0-4b25-a4b0-4e145be7a47d" name="Changes" comment="" />
+    <list default="true" id="2c5bca25-0713-4f50-967a-087b584478fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/New.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,7 @@
   "customColor": "",
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2flf8sr6fxgYTB4br8cLZLts5zm" />
+  <component name="ProjectId" id="2g8V7PiBTJhfcSPIdliPlF4iFPo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,11 +43,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="08ecb6dc-61a0-4b25-a4b0-4e145be7a47d" name="Changes" comment="" />
-      <created>1714380430425</created>
+      <changelist id="2c5bca25-0713-4f50-967a-087b584478fe" name="Changes" comment="" />
+      <created>1715079025140</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1714380430425</updated>
+      <updated>1715079025140</updated>
     </task>
     <servers />
   </component>
